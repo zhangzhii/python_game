@@ -1,0 +1,5 @@
+Sample file writing
+chapter3
+sample text data file
+this is the third line of text
+this is the fourth line
